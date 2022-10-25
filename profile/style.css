@@ -501,6 +501,18 @@ input:focus {
   cursor: pointer;
 }
 
+button {
+  cursor: pointer;
+}
+
+button a:hover {
+  color: #333;
+}
+
+.right-content a:hover {
+  border-bottom: 1px solid #6A4029;
+}
+
 a:link {
   text-decoration: none;
 }

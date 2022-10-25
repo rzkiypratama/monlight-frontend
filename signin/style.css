@@ -104,6 +104,10 @@ a {
   text-decoration: underline;
 }
 
+button {
+  cursor: pointer;
+}
+
 /* form */
 form {
   flex-direction: column;
