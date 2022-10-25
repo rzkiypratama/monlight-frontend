@@ -328,6 +328,10 @@ button:hover {
   cursor: pointer;
 }
 
+.box-1:hover {
+  opacity: 80%;
+}
+
 /* media queries */
 
 @media screen and (max-width: 768px) {
