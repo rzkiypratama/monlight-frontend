@@ -164,6 +164,18 @@ main {
 
 /* main 2 */
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+button a {
+  color: #333;
+}
+
 .box-0 {
   position: inherit;
   background-color: #F8F8F8;
@@ -445,7 +457,11 @@ button:hover {
   }
 
   .btn-price {
-    margin-top: 60px;
+    margin-top: 45px;
+  }
+
+  .box-text {
+    margin-top: 20px;
   }
 
   .map-img img {

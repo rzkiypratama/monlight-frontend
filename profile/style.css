@@ -501,6 +501,18 @@ input:focus {
   cursor: pointer;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+.button-down a {
+  color: #6A4029;
+}
+
 /* media queries */
 
 @media screen and (max-width: 768px) {
