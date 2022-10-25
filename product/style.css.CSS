@@ -330,6 +330,8 @@ button:hover {
 
 .box-1:hover {
   opacity: 80%;
+  border-bottom: 1px solid #6A4029;
+  transition: ease-out 0.2s;
 }
 
 /* media queries */
