@@ -21,6 +21,10 @@ main {
   margin-right: auto;
 }
 
+.container {
+  max-width: fit-content;
+}
+
 /* navbar */
 
 .nav {
@@ -255,9 +259,9 @@ button a {
 }
 
 .product-banner {
-  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   border-radius: 10px;
-  height: 110vh;
+  height: 750px;
   width: 240px;
 
 }
